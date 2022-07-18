@@ -1,0 +1,8 @@
+name
+abhishek
+designation
+ceo of navgurukul
+gender
+male
+age
+29
